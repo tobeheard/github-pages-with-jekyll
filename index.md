@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to 385 MinorAssignment 3
 
-I'm glad you are here. I plan to talk about ...
+This is the homepage for my Minor Assignment using JSON files
