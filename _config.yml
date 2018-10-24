@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: "MY-TITLE"
+date: 2018-10-24
+
+title: 385 MinorAssignment 3
+author: SharynBrans
+email: sharyn.brand@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the homepage for the Minor 3 JSON file assignment.
+  Testing how to host on github pages
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: sharynbrand
+github_username:  tobeheard
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-tactile
+theme: minima
